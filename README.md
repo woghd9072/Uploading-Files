@@ -2,6 +2,8 @@
 
 스프링 부트를 이용한 File Upload 공부
 
+[코드참조](https://spring.io/guides/gs/uploading-files/)
+
 - `java.nio.file.Path`
   - IO는 파일의 속성 정보를 읽기 위해 File 클래스를 제공
   - NIO는 좀 더 다양한 파일의 속성 정보를 제공해주는 클래스, 인터페이스를 `java.nio.file` 패키지에서 제공
